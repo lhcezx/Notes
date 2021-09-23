@@ -1,2 +1,2 @@
-# Proba
+# Notes
 Probability Theory Summary
